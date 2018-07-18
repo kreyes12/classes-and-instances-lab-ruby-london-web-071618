@@ -8,3 +8,5 @@ snoopy = Dog.new
 snoopy
 
 lassie = Dog.new
+
+class Person
