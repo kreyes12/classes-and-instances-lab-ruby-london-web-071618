@@ -7,3 +7,4 @@ fido
 snoopy = Dog.new
 snoopy
 
+lassie = Dog.new
